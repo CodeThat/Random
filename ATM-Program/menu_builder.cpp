@@ -1,5 +1,5 @@
 #include <iostream>
-#include "menu_builder.h.h"
+#include "menu_builder.h"
 
 // initializes the account balance
 void MenuBuilder :: SetAccountBalance()
