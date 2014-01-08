@@ -1,4 +1,4 @@
-# Sit back and enjoy fireworks in your shell.
+# Sit back and enjoy fireworks in your shell. Great for 4th of July.
 
 #!/bin/bash
 
